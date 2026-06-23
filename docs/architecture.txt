@@ -1,0 +1,28 @@
+Industrial Sensor Hub Architecture
+
+Sensor Simulator
+       |
+       v
+ MQTT Broker
+       |
+       +------------------+
+       |                  |
+       v                  v
+ Dashboard          Data Logger
+       |                  |
+       |                  v
+       |            CSV Storage
+       |
+       +------------------+
+       |
+       v
+ Alarm Monitor
+       |
+       v
+ SQLite Database
+       |
+       v
+ Analytics Dashboard
+       |
+       v
+ PDF Report
