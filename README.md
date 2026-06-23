@@ -38,7 +38,8 @@ This project demonstrates the integration of embedded systems, IoT communication
 * Industrial automation
 * Remote asset monitoring
 * Industry 4.0 solutions
-Project Modules
+
+**Project Modules**
 
 1. Sensor Simulator
    - Simulates industrial temperature and humidity sensors
