@@ -38,5 +38,26 @@ This project demonstrates the integration of embedded systems, IoT communication
 * Industrial automation
 * Remote asset monitoring
 * Industry 4.0 solutions
+Project Modules
 
+1. Sensor Simulator
+   - Simulates industrial temperature and humidity sensors
+
+2. MQTT Dashboard
+   - Displays real-time sensor readings
+
+3. Data Logger
+   - Stores sensor data into CSV files
+
+4. Database Logger
+   - Stores sensor data into SQLite database
+
+5. Alarm Monitor
+   - Generates alerts for abnormal conditions
+
+6. Analytics Dashboard
+   - Visualizes historical trends
+
+7. Report Generator
+   - Creates PDF reports automatically
 This project was developed as an end-to-end embedded systems portfolio project demonstrating industry-relevant skills required for Embedded Systems, IoT, Firmware, and Edge AI engineering roles.
