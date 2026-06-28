@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# Python Cache
+.pytest_cache/
+
+# Build Files
+build/
+dist/
+
+# STM32 Build Files
+Debug/
+Release/
+
+# Keil
+Objects/
+Listings/
+
+# CubeIDE
+.settings/
+
+# TensorFlow Checkpoints
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
